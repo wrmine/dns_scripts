@@ -1,7 +1,7 @@
 #!/bin/bash
 # for incrementing the serial number of a zone file
 # WIP
-# HOST: qpass-kickstart-1.sea1
+# 
 # PATH: /home/williamm/bin
 
 
